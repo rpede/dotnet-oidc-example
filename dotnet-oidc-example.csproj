@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-oidc_example-1218cfc8-215e-4e66-a549-94a23822fe5d</UserSecretsId>
-    <RootNamespace>oidc_example</RootNamespace>
+    <RootNamespace>dotnet_oidc_example</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
